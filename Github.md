@@ -9,7 +9,7 @@
 - Step 3: Truy cập kho Repository để theo dõi nộp bài thực hành
 ## Sao chép và đẩy mã nguồn lên kho lưu trữ
 - Step 1: Mở Command Prompt hoặc CMD trên Windows
-- Step 2: Thực hiện câu lệnh clone Repository: `git clone https://github.com/dzokha1010/<name_repository>.git`
+- Step 2: Thực hiện câu lệnh clone Repository: `git clone https://github.com/dzokha/<name_repository>.git`
 - Step 3: Di chuyển vào thư mục Repository: `cd <name_repository>`
 - Step 4: Chuyển nhánh: `git checkout student`
 - Step 5: Tạo tập tin Word đặt tên là MSSV lưu trong thư mục <name_repository>, tập tin này sẻ lưu trữ kết quả mỗi buổi thực hành.
@@ -22,7 +22,7 @@
   ```
 ## Các câu lệnh khác trong Github
 - Đồng bộ từ Github về máy tính: `git pull`
-- Liên kết thư mục với repo muốn đưa Source Code lên: `git remote add origin https://github.com/dzokha1010/<name_repository>.git`
+- Liên kết thư mục với repo muốn đưa Source Code lên: `git remote add origin https://github.com/dzokha/<name_repository>.git`
 - Liệt kê các liên kết đang sử dung: `git remote -v`
 - Liệt kê thiết lập: `git config -l`
 - Thiết lập tài khoản Github: `git config user.name <user_github>`
